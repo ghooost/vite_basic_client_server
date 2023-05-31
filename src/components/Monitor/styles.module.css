@@ -1,0 +1,17 @@
+.root {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.root textarea {
+  flex: 1 1 100px;
+  height: 100dvh;
+  font-size: 18px;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+.root button {
+  flex: 0;
+}
